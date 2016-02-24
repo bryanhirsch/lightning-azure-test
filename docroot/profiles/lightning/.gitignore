@@ -1,9 +1,6 @@
-# Ignore contrib
-*/contrib/*
-*/custom/*
-
-# Ignore libraries
-libraries/*
-
-# OSX
 .DS_Store
+.sass-cache/
+/tests/behat.local.yml
+/tests/bin/
+vendor/
+node_modules/
